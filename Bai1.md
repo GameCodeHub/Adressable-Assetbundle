@@ -173,10 +173,10 @@ public class Assetbundle : MonoBehaviour
     }
 }
 
-
 ```
 <img width="1919" height="980" alt="Ảnh chụp màn hình 2025-07-10 190416" src="https://github.com/user-attachments/assets/e770c9c8-beb6-4f05-ba85-3dcfe2037040" />
-## 9. 🛠️ Các hàm và phương thức thường dùng trong AssetBundle
+
+## 9.🛠️ Các hàm và phương thức thường dùng trong AssetBundle
 
 Dưới đây là các API phổ biến nhất trong quá trình sử dụng AssetBundle trong Unity (C#), chia thành nhóm theo mục đích sử dụng:
 
